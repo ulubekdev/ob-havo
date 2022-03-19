@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot.js"
+    "start": "nodemon bot.js"
   },
   "author": "",
   "license": "ISC",
