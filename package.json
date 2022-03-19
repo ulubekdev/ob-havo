@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon bot.js"
+    "start": "node bot.js"
   },
   "author": "",
   "license": "ISC",
