@@ -6,6 +6,6 @@
   "license": "ISC",
   "dependencies": {
     "grammy": "^1.7.0",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^3.0.0"
   }
 }
